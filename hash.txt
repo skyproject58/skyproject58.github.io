@@ -1,3 +1,0 @@
-{
-    "valid_hash": "c232ad19aa20ed01a9ccad9f11cb2a60dd21eb29b4a87397e2ff31e5c1294654"
-}
